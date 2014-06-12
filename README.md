@@ -8,7 +8,7 @@ Generate beautiful documentation page
 Generate beautiful documentation page
 
 
-![截屏](api/img/shoot.png)
+
 
 Requirement
 -----------
