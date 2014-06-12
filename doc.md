@@ -1,14 +1,14 @@
-#gendoc
+#gendoc {#index}
 
 Generate beautiful documentation page
 
 
-##Introduction
+##Introduction {#index_introduction}
 
 Generate beautiful documentation page
 
 
-![截屏](api/img/shoot.png)
+![截屏](img/shoot.png)
 
 Requirement
 -----------

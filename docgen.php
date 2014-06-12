@@ -14,12 +14,12 @@ spl_autoload_register(function($class){
 use \Michelf\MarkdownExtra;
 
 # Read file and pass content through the Markdown parser
-$text = file_get_contents('README.md');
+$text = file_get_contents('doc.md');
 $content = MarkdownExtra::defaultTransform($text);
 
 //解析affx数据
 
-$content_array = file('README.md');
+$content_array = file('doc.md');
 $tpl_affx_data = array();
 $i = 0;
 
